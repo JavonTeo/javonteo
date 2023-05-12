@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋
 
 <!--
 **JavonTeo/javonteo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,4 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### I am passionate about solving Leetcode problems 🤓🖥️
 [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=JavonTeo)](https://github.com/KnlnKS/leetcode-stats)
