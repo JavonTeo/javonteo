@@ -16,4 +16,6 @@ Here are some ideas to get you started:
 -->
 
 ### I am passionate about solving Leetcode problems 🤓🖥️
+Here are my Leetcode stats:
+
 [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=JavonTeo)](https://github.com/KnlnKS/leetcode-stats)
