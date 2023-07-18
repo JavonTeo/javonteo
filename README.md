@@ -15,7 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### I am passionate about solving Leetcode problems 🤓🖥️
+### I am passionate about computer science 🤓🖥️
+Always learning!
+
+<!--
 Here are my Leetcode stats:
 
 [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=JavonTeo)](https://github.com/KnlnKS/leetcode-stats)
+-->
